@@ -2,7 +2,7 @@ import Link from "next/link";
 import Provider from "./Provider";
 import Header from "./Header";
 import Main from "./Main";
-import Footer from "./Footer";
+import Footer from "./common/components/Footer";
 
 export const metadata = {
   title: "Create Next App",
